@@ -1,0 +1,20 @@
+person:
+  boss: false
+  maps: {k1: v1,k2: v2}
+  lists:
+    - list
+    - zhaoliu
+  dog:
+    name: rubby
+    age: 10
+  last-name: taira${random.uuid}
+spring:
+  mvc:
+    view:
+      prefix: /WEB-INF/page/
+      suffix: .jsp
+server:
+  port: 1000
+#server:
+#  servlet:
+#    context-path: /taira

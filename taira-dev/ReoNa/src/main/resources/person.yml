@@ -1,0 +1,10 @@
+person:
+  boss: false
+  maps: {k1: v1,k2: v2}
+  lists:
+    - list
+    - zhaoliu
+  dog:
+    name: rubby
+    age: 10
+  last-name: tair
